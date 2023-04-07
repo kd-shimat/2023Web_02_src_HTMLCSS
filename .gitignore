@@ -1,1 +1,6 @@
+composer.lock
+Dockerfile
+Selenium
+sql
 src/helloWorldAnswer.html
+vendor/
